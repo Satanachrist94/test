@@ -8,7 +8,7 @@ public class Main {
         List<String> cars = new ArrayList<>();
         cars.add("Mercedes");
         cars.add("Lancer");
-        cars.add("BMW");
+        cars.add("Cruiser");
         cars.add("Vag");
         for (String car:cars) {
            // System.out.println(car);
